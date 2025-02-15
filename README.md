@@ -6,7 +6,7 @@
 Kafka follows a publish-subscribe model, where producers send messages to topics, and consumers read messages from those topics.
 
 ### Kafka Architecture
-![img.png](img.png)
+![img.png](src/main/resources/static/kafka-High-level-architecture.png)
 
 ### Producer
 * A producer is responsible for sending messages to Kafka topics. 
